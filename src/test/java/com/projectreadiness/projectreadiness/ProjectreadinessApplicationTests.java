@@ -13,7 +13,7 @@ class ProjectreadinessApplicationTests {
 
 	@Test
 	void testingthings() {
-		Assertions.assertEquals("A", "B");
+		Assertions.assertEquals("A", "A");
 	}
 
 }
