@@ -114,6 +114,10 @@ public class ProjectreadinessApplication {
 	// Configure Swagger ** Please check the documentation Package
 
 
+	// CI/CD
+
+	//	Please Pull before you push
+
 	// Info << Trace << Warn << Debug
 	public static void main(String[] args) {
 		SpringApplication.run(ProjectreadinessApplication.class, args);
